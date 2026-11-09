@@ -1,4 +1,4 @@
-# 🌐 AskWiki — Enterprise Agentic RAG Platform
+# 🌐 AskWiki
 
 **AskWiki** is a production-grade, agentic Knowledge Retrieval-Augmented Generation (RAG) platform. It pairs a **FastAPI** backend orchestrated with **LangGraph**, **LangChain**, and **ChromaDB** with a modern **Next.js**, **Shadcn UI**, and **Tailwind CSS** frontend.
 
