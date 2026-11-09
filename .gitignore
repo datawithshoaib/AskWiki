@@ -1,0 +1,23 @@
+# Python & uv
+.venv/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.env
+
+# ChromaDB & Datasets
+/chroma_db/
+backend/chroma_db/
+/datasets/
+snapshot.txt
+
+# Node & Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.next/
+node_modules/
+.DS_Store
+*.log
